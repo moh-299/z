@@ -8,3 +8,4 @@ check change log [here](https://github.com/NodeArt/angular-commerce/blob/master/
 
 ## store architecture
 hhhhh
+jjjjjjj
