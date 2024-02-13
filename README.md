@@ -9,4 +9,5 @@ check change log [here](https://github.com/NodeArt/angular-commerce/blob/master/
 ## store architecture
 
 ### component dependencies
-Most os componenets are separated from each other.The most common dependency is Data Abstraction Layer (DAL).
+
+Most os componenets are separated from each other.The most common dependency is `Data Abstraction Layer (DAL)`.Dal is abridge of some connector (for now firebase connector)
